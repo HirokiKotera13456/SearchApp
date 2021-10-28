@@ -1,0 +1,35 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
+import App from "./App";
+
+ReactDOM.render(<App />,document.querySelector("#root"));
+
+<footer id="footer">
+  <section class="primary">
+    <p class="logo"><a href="#">COMPANY</a></p>
+
+    <div class="navi-row">
+      <ul class="navi">
+        <li><a href="#">ホーム</a></li>
+        <li><a href="#">選ばれる理由</a></li>
+        <li><a href="#">サービス</a></li>
+        <li><a href="#">制作事例</a></li>
+        <li><a href="#">会社案内</a></li>
+      </ul>
+      <ul class="sns-navi">
+        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="secondary">
+    <ul class="sitenavi">
+      <li><a href="#">サイトマップ</a></li>
+      <li><a href="#">プライバシーポリシー</a></li>
+    </ul>
+    <p class="copyright">Copyright WEBSITE,Inc. All rights reserved.</p>
+  </section>
+</footer>

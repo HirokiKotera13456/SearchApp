@@ -1,0 +1,17 @@
+body{
+  bolo
+}
+
+.pixabay{
+  width: 150px;
+}
+
+.image-list .ui.medium.image{
+  width: 50%;
+  padding: 3px;
+}
+
+.image-list .ui.medium.image img{
+  width: 100%;
+  height: 100%;
+}

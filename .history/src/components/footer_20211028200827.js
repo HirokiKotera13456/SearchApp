@@ -1,0 +1,15 @@
+import React from "react";
+
+const Footer = () => {
+  return(
+      <section class="secondary">
+        <ul class="sitenavi">
+          <li><a href="#">サイトマップ</a></li>
+          <li><a href="#">プライバシーポリシー</a></li>
+        </ul>
+        <p class="copyright">Copyright WEBSITE,Inc. All rights reserved.</p>
+      </section>
+  );
+};
+
+export default Footer;
