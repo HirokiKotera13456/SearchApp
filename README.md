@@ -3,7 +3,7 @@
 アプリケーションURL(https://search-app-react1.netlify.app/)
 
 # 環境
-OS: windows
-IDE : VisualStudioCode
-言語 :HTML,CSS,JavaScript
-JSライブラリ : React
+- OS: windows
+- IDE : VisualStudioCode
+- 言語 :HTML,CSS,JavaScript
+- JSライブラリ : React
